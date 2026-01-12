@@ -10,6 +10,7 @@
     "typescript": "^5"
   },
   "dependencies": {
-    "@aptos-labs/ts-sdk": "^5.2.1"
+    "@aptos-labs/ts-sdk": "^5.2.1",
+    "nats": "^2.29.3"
   }
 }
